@@ -1,0 +1,14 @@
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\bin\Debug\net8.0\Rock-Paper-Scissors-Game.exe
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\bin\Debug\net8.0\Rock-Paper-Scissors-Game.deps.json
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\bin\Debug\net8.0\Rock-Paper-Scissors-Game.runtimeconfig.json
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\bin\Debug\net8.0\Rock-Paper-Scissors-Game.dll
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\bin\Debug\net8.0\Rock-Paper-Scissors-Game.pdb
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.AssemblyInfoInputs.cache
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.AssemblyInfo.cs
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.csproj.CoreCompileInputs.cache
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.dll
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\obj\Debug\net8.0\refint\Rock-Paper-Scissors-Game.dll
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.pdb
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\obj\Debug\net8.0\Rock-Paper-Scissors-Game.genruntimeconfig.cache
+E:\1-Programming\5-MyProjects\Rock-Paper-Scissors-Game\Rock-Paper-Scissors-Game\obj\Debug\net8.0\ref\Rock-Paper-Scissors-Game.dll
